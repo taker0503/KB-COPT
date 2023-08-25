@@ -11,14 +11,17 @@ ChatGPT를 활용한 마케팅 카피라이터 AI
 ## Model
 huggingface에서 model 로드
 
+```python
+from transformers import AutoTokenizer, AutoModel
+MODEL_NAME = 'TaeLeeKyung/KoSimCSE-roberta-multitask-marketing-lms'
+tokenizer = AutoTokenizer.from_pretrained('{MODEL_NAME}')
+model = AutoModel.from_pretrained('{MODEL_NAME}')
+
+
+## Usage
 <pre><code>
 from transformers import AutoTokenizer, AutoModel
 tokenizer = AutoTokenizer.from_pretrained('{MODEL_NAME}')
 model = AutoModel.from_pretrained('{MODEL_NAME}')
 </code></pre>
-
-## Usage
-```python
-s = "Python syntax highlighting"
-print s
 ```
