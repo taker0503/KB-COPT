@@ -25,5 +25,4 @@ $ generate_msg.py
 ```
 
 ## Demo
-<img src="/Users/user/Desktop/Copt.png">
-![ex_screenshot](kb_logo.png)
+![ex_screenshot](./kb_logo.png)
