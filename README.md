@@ -23,3 +23,6 @@ model = AutoModel.from_pretrained(MODEL_NAME)
 $ cd kb_similarity
 $ generate_msg.py
 ```
+
+## Demo
+<img src="/Users/user/Desktop/Copt.png">
