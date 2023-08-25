@@ -25,4 +25,4 @@ $ generate_msg.py
 ```
 
 ## Demo
-![ex_screenshot](./kb_logo.png)
+<a href='https://ifh.cc/v-MtaJa8' target='_blank'><img src='https://ifh.cc/g/MtaJa8.jpg' border='0'></a>
