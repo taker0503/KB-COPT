@@ -25,4 +25,4 @@ $ generate_msg.py
 ```
 
 ## Demo
-<a href='https://ifh.cc/v-MtaJa8' target='_blank'><img src='https://ifh.cc/g/MtaJa8.jpg' border='0'></a>
+<a href='https://ifh.cc/v-K7CjYc' target='_blank'><img src='https://ifh.cc/g/K7CjYc.jpg' border='0'></a>
