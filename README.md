@@ -14,6 +14,12 @@ huggingface에서 model 로드
 ```python
 from transformers import AutoTokenizer, AutoModel
 MODEL_NAME = 'TaeLeeKyung/KoSimCSE-roberta-multitask-marketing-lms'
-tokenizer = AutoTokenizer.from_pretrained('{MODEL_NAME}')
-model = AutoModel.from_pretrained('{MODEL_NAME}')
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+model = AutoModel.from_pretrained(MODEL_NAME)
+```
 
+## Usage
+```bash
+$ cd KB_similarity
+$ generate_msg.py
+```
