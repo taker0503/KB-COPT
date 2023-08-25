@@ -17,11 +17,3 @@ MODEL_NAME = 'TaeLeeKyung/KoSimCSE-roberta-multitask-marketing-lms'
 tokenizer = AutoTokenizer.from_pretrained('{MODEL_NAME}')
 model = AutoModel.from_pretrained('{MODEL_NAME}')
 
-
-## Usage
-<pre><code>
-from transformers import AutoTokenizer, AutoModel
-tokenizer = AutoTokenizer.from_pretrained('{MODEL_NAME}')
-model = AutoModel.from_pretrained('{MODEL_NAME}')
-</code></pre>
-```
