@@ -20,6 +20,6 @@ model = AutoModel.from_pretrained(MODEL_NAME)
 
 ## Usage
 ```bash
-$ cd KB_similarity
+$ cd kb_similarity
 $ generate_msg.py
 ```
